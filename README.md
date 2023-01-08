@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **NextJS & Socket.io**
 
-- 👨‍💻 All of my projects are available at [https://anmoljhamb.vercel.app](https://anmoljhamb.vercel.app)
+- 👨‍💻 All my projects are available at [https://anmoljhamb.vercel.app](https://anmoljhamb.vercel.app)
 
 - 💬 Ask me about **Python**
 
