@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **talktoanmol@outlook.com**
+- 📫 Get In Touch **talktoanmol@outlook.com**
 
 
 
