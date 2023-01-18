@@ -6,7 +6,7 @@
 
 - ⚡ Something About Me **I am a Google Code-In 2019 Grand Prize Winner**
 
-- 🌱 I’m currently learning **NextJS & Socket.io**
+- 🌱 I’m currently learning **NextJS, Socket.io and Flutter**
 
 - 👨‍💻 All my projects are available at [https://anmoljhamb.vercel.app](https://anmoljhamb.vercel.app)
 
