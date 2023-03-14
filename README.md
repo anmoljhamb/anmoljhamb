@@ -30,6 +30,6 @@
 
 <p><img align="left" src="https://github-readme-stats-anmoljhamb.vercel.app/api/top-langs?username=anmoljhamb&show_icons=true&locale=en&layout=compact" alt="anmoljhamb" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-anmoljhamb.vercel.app/api?username=anmoljhamb&show_icons=true&locale=en" alt="anmoljhamb" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anmoljhamb&&show_icons=true" alt="anmoljhamb" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anmoljhamb&" alt="anmoljhamb" /></p>
